@@ -112,14 +112,6 @@ usstock-data-toolkit/
 - **每日增量**：约 11 分钟
 - **磁盘**：parquet 约 38 MB，加备份预留 1 GB 绰绰有余
 
-## 生产应用：AIHEY（艾嘿）
-
-这套管线是 **AIHEY AI 助理**美股相关功能的数据底座。不想自己架服务器跑数据，可以直接用现成的：
-
-- **网页版（免下载）**：https://agentos.tybbtech.com/app/
-- **iOS 版**：[App Store 下载](https://apps.apple.com/cn/app/agentos/id6759725374)（搜索「AgentOS」）
-- **桌面版（Windows / Mac）、安卓版**：[官网下载](https://www.tybbtech.com)
-
 ## 免责声明
 
 - 本项目仅供**学习与研究**使用，请勿用于任何商业数据转售场景
