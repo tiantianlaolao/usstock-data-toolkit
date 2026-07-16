@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# 运行时数据 —— 本仓库只提供程序, 不提供数据
+us_data/
+*.parquet
+*.tmp
+*.log
+*.csv
+*.bak*
+progress.json
+errors.json
+last_update.txt
+update.lock
+delisted_blacklist.json

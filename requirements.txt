@@ -1,0 +1,7 @@
+pandas>=2.0.0
+pyarrow
+requests
+polars
+
+# 可选: 仅 tools/verify_delisted.py 用到 (低频交叉验证, 不参与主管线)
+# yfinance
